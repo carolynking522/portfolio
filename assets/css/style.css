@@ -45,3 +45,15 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+
+section {
+    padding: 60px;
+}
+
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/pexels-david-bartus.jpg");
+    height: 100px;
+}
+
+/* Hero Style End */
