@@ -57,3 +57,11 @@ section {
 }
 
 /* Hero Style End */
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    margin: 20px 0 0 0;
+}
