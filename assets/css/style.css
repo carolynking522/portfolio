@@ -13,6 +13,13 @@ header {
     background-color: #3c3c43;
 }
 
+#work{
+    text-align: center;
+}
+img{
+    /* max-height: 50vh; */
+}
+
 header h1 {
     font-weight: bold;
     font-size: 36px;
@@ -35,6 +42,7 @@ header nav {
     float: right;
     margin: 7px 0;
 }
+
 
 header nav ul li {
     display: inline;
@@ -65,3 +73,9 @@ h2 {
 p {
     margin: 20px 0 0 0;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
